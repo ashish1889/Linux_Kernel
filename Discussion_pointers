@@ -1,0 +1,11 @@
+//OS DS- Doubly circular link list(maintained by T32) - Debugging easy(call stack recovery- sig11/libc crash)- recovery method(has PC,2 registers)
+Queue - PQ(scheduling), PC problem,RR
+Maps- proc fs, meminfo
+Binary tree - cgroup, scheduling(rbtree)
+Binder- rbtree
+
+Interrupts- hardware interrupts from devices, software exceptions, or system calls
+
+CPU to GPU synchronization- Fence synchronization
+
+proc, dev, sys - dynamic partition
